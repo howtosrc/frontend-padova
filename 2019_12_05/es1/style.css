@@ -1,0 +1,14 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.profile-img {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+}
+
+.rounded-corner {
+  border-radius: 3px;
+}
